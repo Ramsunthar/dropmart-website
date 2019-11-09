@@ -1,0 +1,32 @@
+/*Home.php*/
+html, body {
+  width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body{
+  background-color: #EAEDED !important;
+}
+
+.price-range {
+    width: 100%;
+    display: inline-flex;
+    text-align: center !important;
+}
+
+#min {
+    width: 20%;
+    text-align: center;
+    background-color: #eaeded;
+    border: none;
+    margin-left: auto !important;
+}
+
+#max {
+    width: 20%;
+    text-align: center;
+    background-color: #eaeded;
+    border: none;
+    margin-right: auto !important;
+}
